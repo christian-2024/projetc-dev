@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\Gupy\Gupy\bin\Debug\net8.0\Gupy.exe
+C:\Users\1\source\repos\Gupy\Gupy\bin\Debug\net8.0\Gupy.deps.json
+C:\Users\1\source\repos\Gupy\Gupy\bin\Debug\net8.0\Gupy.runtimeconfig.json
+C:\Users\1\source\repos\Gupy\Gupy\bin\Debug\net8.0\Gupy.dll
+C:\Users\1\source\repos\Gupy\Gupy\bin\Debug\net8.0\Gupy.pdb
+C:\Users\1\source\repos\Gupy\Gupy\obj\Debug\net8.0\Gupy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Gupy\Gupy\obj\Debug\net8.0\Gupy.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Gupy\Gupy\obj\Debug\net8.0\Gupy.AssemblyInfo.cs
+C:\Users\1\source\repos\Gupy\Gupy\obj\Debug\net8.0\Gupy.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Gupy\Gupy\obj\Debug\net8.0\Gupy.dll
+C:\Users\1\source\repos\Gupy\Gupy\obj\Debug\net8.0\refint\Gupy.dll
+C:\Users\1\source\repos\Gupy\Gupy\obj\Debug\net8.0\Gupy.pdb
+C:\Users\1\source\repos\Gupy\Gupy\obj\Debug\net8.0\Gupy.genruntimeconfig.cache
+C:\Users\1\source\repos\Gupy\Gupy\obj\Debug\net8.0\ref\Gupy.dll
+C:\Users\1\source\repos\Gupy\Gupy\obj\Debug\net8.0\Gupy.sourcelink.json
